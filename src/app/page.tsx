@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/ThemeProvider";
 import NavbarLayoutFloatingInline from '@/components/navbar/NavbarLayoutFloatingInline';
@@ -210,8 +210,7 @@ export default function Home() {
               company: "Corporate Dining",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/5716037/pexels-photo-5716037.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Portrait of Michael Richardson",
-              testimonial: "Outstanding service and the best steaks in the city. Perfect for business dinners."
+              imageAlt: "Portrait of Michael Richardson"
             },
             {
               id: "2",
@@ -220,8 +219,7 @@ export default function Home() {
               company: "Luxury Dining",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/3801426/pexels-photo-3801426.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Portrait of Sarah Collins",
-              testimonial: "An exceptional dining experience from start to finish. The attention to detail is remarkable."
+              imageAlt: "Portrait of Sarah Collins"
             },
             {
               id: "3",
@@ -230,8 +228,7 @@ export default function Home() {
               company: "Industry Professional",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/7552730/pexels-photo-7552730.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Portrait of Chef Antonio",
-              testimonial: "As a fellow chef, I'm impressed by the quality and technique. True masters of their craft."
+              imageAlt: "Portrait of Chef Antonio"
             },
             {
               id: "4",
@@ -240,8 +237,7 @@ export default function Home() {
               company: "Anniversary Celebrations",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/3801426/pexels-photo-3801426.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Portrait of David Martinez",
-              testimonial: "We celebrate every anniversary here. The ambiance and food never disappoint."
+              imageAlt: "Portrait of David Martinez"
             }
           ]}
         />
